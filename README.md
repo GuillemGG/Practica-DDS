@@ -53,3 +53,6 @@ Here there is a list of possible functionalities that we'd like to develop. To b
 
 This R package will help security analysts to troubleshoot when doing incident hunting and incident response. The data obtained from the functionalities will be tested on a report and documented here.
 
+
+
+** RELEASE THE KRAKEN**
